@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/blueoranges/Dev+/Pong/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
